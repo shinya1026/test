@@ -69,6 +69,10 @@ button {
     padding: 5px 10px;
 }
 
+select {
+    height: 30px;
+}
+
 #flush_success {
     width: 100%;
     padding-top: 28px;
